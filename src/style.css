@@ -1,0 +1,8 @@
+.hello {
+    color: cadetblue;
+    background: url('./node.svg');
+}
+
+body {
+    background-color: chocolate;
+}
