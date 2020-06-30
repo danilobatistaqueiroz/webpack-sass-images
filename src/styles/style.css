@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Belepotan';
+    src: url('./../fonts/Belepotan.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    font-family: sans-serif;
+    border-style:dashed; border-color:black; border-width: 0.3em;
+}
+
+.garage-title {
+    font-family:Belepotan; text-align:center; margin-top:50px; height:100px
+}
